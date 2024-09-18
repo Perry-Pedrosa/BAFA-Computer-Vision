@@ -15,4 +15,4 @@ This objective is to build the model for British American Football teams to use 
 
 A second challenge is the quality of fields being played on, some are artificial, some are grass, some are 90 yards long, some are 100 etc. So its imperetive we figure out what works and what doesn't. 
 
-I will look at current market leaders in this space such as Veo, who already have this technology available but at a cost price, the goal with this model will be to either drastically reduce that cost or make it freely available whilst ensuring we are staying within legal perameters, as this model may be used in some instances on Veo footage.
+I will look at current market leaders in this space such as Veo, who already have this technology available but at a price, BAFA affiliated clubs are largely if not exclusivly self-funded through player fees and some are fortunate to have sponsership and that extra expense does not pass the cost-benefit stage. The goal with this model will be to either drastically reduce that cost or make it freely available whilst ensuring we are staying within legal perameters, as this model may be used in some instances on Veo footage. 
